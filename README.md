@@ -1,4 +1,4 @@
-# EECS 280 Project 3 - Text Editor
+# EECS 280 Project 5 - Text Editor
 
 ## Info
 
